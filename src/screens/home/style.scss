@@ -1,0 +1,22 @@
+#home-page {
+
+  .page-title {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #efeff1;
+    margin-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+  }
+
+  .content {
+    float: left;
+    width: calc(100% - 300px);
+    padding-right: 24px;
+  }
+
+  .sidebar {
+    float: left;
+    width: 300px;
+  }
+}

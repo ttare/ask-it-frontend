@@ -1,0 +1,9 @@
+.form-group {
+  margin-bottom: 10px;
+
+  .invalid-feedback {
+    display: block;
+    min-height: 16px;
+    text-align: left;
+  }
+}
